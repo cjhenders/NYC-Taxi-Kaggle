@@ -1,2 +1,2 @@
 # NYC-Taxi-Kaggle
-Made for NYC-Taxi_Kaggle playground competition.
+Made for NYC-Taxi-Kaggle playground competition.
